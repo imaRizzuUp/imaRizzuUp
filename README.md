@@ -4,7 +4,7 @@
   <h1 align="center">Hi there, I'm Henoch Abraham Saerang! 👋</h1>
   
   <p align="center">
-    <b>Information Technology Student | Web Developer Enthusiast | Deputy Secretary at PERMATA</b>
+    <b>Information Technology Student | Web Developer Enthusiast </b>
   </p>
 
   <a href="https://github.com/imaRizzuUp">
@@ -16,8 +16,7 @@
 
 ### 🧐 About Me
 
-- 🎓 **Mahasiswa Teknik Informatika** (Semester 3) yang sedang mendalami *Web Development* dan *Artificial Intelligence*.
-- 🏛️ **Wakil Sekretaris** di PERMATA (Persekutuan Mahasiswa dan Profesional Muda Maranatha).
+- 🎓 **Mahasiswa Teknik Informatika** (Semester 5) yang sedang mendalami *Web Development*.
 - 🔭 Saat ini sedang membangun sistem informasi berbasis **Laravel 12** untuk manajemen jemaat dan organisasi.
 - 🧠 Tertarik pada filsafat (Camus, Socrates, Aristotle) dan jaringan (MikroTik).
 - 📍 Berbasis di **Manado / Minahasa**, Indonesia.
