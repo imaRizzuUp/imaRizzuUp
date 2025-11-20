@@ -50,10 +50,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaRizzuUp&theme=tokyonight" alt="imaRizzuUp" />
-</div>
-
 ---
 
 <div align="center">
