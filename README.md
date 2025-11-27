@@ -7,7 +7,7 @@
     <b>Information Technology Student | Web Developer Enthusiast </b>
   </p>
 
-  <a href="https://github.com/imaRizzuUp">
+  <a href="https://github.com/henochsaerang">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3290F7&center=true&vCenter=true&width=435&lines=Laravel+Fullstack+Developer;Building+PERMATA+MYG+Web;Learning+AI+%26+Machine+Learning;Philosophy+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
